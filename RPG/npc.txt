@@ -1,0 +1,2 @@
+1,Skelly,48,0
+2,Skelly mage,35,62
