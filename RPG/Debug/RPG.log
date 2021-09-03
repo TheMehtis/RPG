@@ -1,6 +1,0 @@
-﻿  game.cpp
-c:\users\mankkenstein\source\repos\rpg\rpg\game.cpp(6): warning C4101: 'name': unreferenced local variable
-  main.cpp
-  Generating Code...
-main.obj : error LNK2019: unresolved external symbol _test referenced in function _main
-C:\Users\Mankkenstein\source\repos\RPG\Debug\RPG.exe : fatal error LNK1120: 1 unresolved externals
